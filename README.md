@@ -35,3 +35,4 @@ python3 pwdgen.py --min_length=12 --max_length=12 --unique=False
 ```shell
 python3 pwdgen.py --min_length=12 --max_length=12 --exclude='?!;:_,.-()[]{}'
 ```
+
