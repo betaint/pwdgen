@@ -1,5 +1,5 @@
 # pwdgen - a password generator
-___
+
 This repository contains a password generator with a command line interface for quickly generating a new password that consists of all the letters, digits, and punctuation characters in the ASCII character set.
 
 The command line interface is provided through [Python Fire](https://github.com/google/python-fire).
