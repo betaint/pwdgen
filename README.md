@@ -16,7 +16,7 @@ To view the available flags on a terminal:
 python3 pwdgen.py -- --help
 ```
 
-If *min_length* and *max_length* are unequal, the password length will be randomly choosen between *min_length* and *max_length* number of characters.
+If *min_length* and *max_length* are unequal, the password length will be randomly chosen between *min_length* and *max_length* number of characters.
 
 _Note_: For reasons of password strength, each generated password contains at least one letter, one digit, and one punctuation character.
 ___
